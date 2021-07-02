@@ -343,7 +343,7 @@ var Icon$p = function (props) {
 
 var Icon$q = function (props) {
     return (React.createElement(Svg, __assign({ viewBox: "0 0 32 32" }, props),
-        React.createElement("image", { width: "32", height: "32", href: "/images/skunk/logo.png" })));
+        React.createElement("image", { width: "32", height: "32", href: "/images/bunny/logo.png" })));
 };
 
 var Icon$r = function (props) {
@@ -400,7 +400,7 @@ var Icon$u = function (props) {
 
 var Icon$v = function (props) {
     return (React.createElement(Svg, __assign({ viewBox: "0 0 90 90" }, props),
-        React.createElement("image", { width: 90, height: 90, href: "/images/skunk/9.png" })));
+        React.createElement("image", { width: 90, height: 90, href: "/images/bunny/9.png" })));
 };
 
 var Icon$w = function (props) {
@@ -1130,7 +1130,7 @@ var Progress = function (_a) {
 var rotate$1 = keyframes(templateObject_1$r || (templateObject_1$r = __makeTemplateObject(["\n  from {\n    transform: rotate(0deg);\n  }\n  to {\n    transform: rotate(360deg);\n  }\n"], ["\n  from {\n    transform: rotate(0deg);\n  }\n  to {\n    transform: rotate(360deg);\n  }\n"])));
 var SpinnerIcon = function (props) {
     return (React.createElement(Svg, __assign({ viewBox: "0 0 96 96" }, props),
-        React.createElement("image", { width: "96", height: "96", href: "/images/skunk/9.png" })));
+        React.createElement("image", { width: "96", height: "96", href: "/images/bunny/9.png" })));
 };
 var Container$1 = styled.div(templateObject_2$6 || (templateObject_2$6 = __makeTemplateObject(["\n  position: relative;\n"], ["\n  position: relative;\n"])));
 var RotatingPancakeIcon = styled(SpinnerIcon)(templateObject_3$2 || (templateObject_3$2 = __makeTemplateObject(["\n  position: absolute;\n  top: 0;\n  left: 0;\n  animation: ", " 2s linear infinite;\n  transform: translate3d(0, 0, 0);\n"], ["\n  position: absolute;\n  top: 0;\n  left: 0;\n  animation: ", " 2s linear infinite;\n  transform: translate3d(0, 0, 0);\n"])), rotate$1);
@@ -1865,13 +1865,13 @@ var Icon$P = function (props) {
 var Logo = function (_a) {
     var isDark = _a.isDark, props = __rest(_a, ["isDark"]);
     return (React.createElement(Svg, __assign({ viewBox: "0 0 250 55" }, props),
-        React.createElement("image", { width: "250", height: "55", href: isDark ? '/images/skunk/LogoTextNewDark.png' : '/images/skunk/LogoTextNewWhite.png' })));
+        React.createElement("image", { width: "250", height: "55", href: isDark ? '/images/bunny/LogoTextNewDark.png' : '/images/bunny/LogoTextNewWhite.png' })));
 };
 
 var rugdoc = function (_a) {
     var isDark = _a.isDark, props = __rest(_a, ["isDark"]);
     return (React.createElement(Svg, __assign({ viewBox: "0 0 370 121" }, props),
-        React.createElement("image", { width: "370", height: "121", href: '/images/skunk/rugdoc.png' })));
+        React.createElement("image", { width: "370", height: "121", href: '/images/bunny/rugdoc.png' })));
 };
 
 var Icon$Q = function (props) {
@@ -1961,7 +1961,7 @@ var Icon$10 = function (props) {
 
 var VfatIcon = function (props) {
     return (React.createElement(Svg, __assign({ viewBox: "0 0 32 32" }, props),
-        React.createElement("image", { width: "32", height: "32", href: "/images/skunk/vfat.png" })));
+        React.createElement("image", { width: "32", height: "32", href: "/images/bunny/vfat.png" })));
 };
 
 var DocsIcon = function (props) {
@@ -2145,7 +2145,7 @@ var socials = [
     {
         label: "Telegram",
         icon: "TelegramIcon",
-        href: "https://t.me/SkunkSwapFinance",
+        href: "https://t.me/BunnySwapFarm",
         // items: [
         //    {
         //        label: "English",
@@ -2204,7 +2204,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/SkunkSwapFin",
+        href: "https://twitter.com/BunnySwapFarm",
     },
 ];
 var MENU_HEIGHT = 64;
@@ -2328,7 +2328,7 @@ var PanelFooter = function (_a) {
                 React.createElement(Icon$l, null))));
     }
     return (React.createElement(Container$4, null,
-         React.createElement(rugdoc, { width: 230, mr: "5px", external: true, href: "https://rugdoc.io/project/skunkswap/"}),                       
+         React.createElement(rugdoc, { width: 230, mr: "5px", external: true, href: "https://rugdoc.io/project/bunnyswap/"}),                       
         React.createElement(SocialEntry, null,
             cakePriceUsd ? (React.createElement(PriceLink, { href: priceLink, target: "_blank" },
                 React.createElement(Icon$v, { width: "24px", mr: "8px" }),
