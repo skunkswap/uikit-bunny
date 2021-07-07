@@ -2787,10 +2787,10 @@ var templateObject_1$K;
 
 var baseColors = {
     failure: "#ED4B9E",
-    primary: "#206a5d",
+    primary: "#88d1d0",
     primaryBright: "#329685",
     primaryDark: "#329685",
-    secondary: "#fbd46d",
+    secondary: "#f6b0ce",
     success: "#31D0AA",
     warning: "#FFB237",
 };
@@ -2806,7 +2806,7 @@ var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), {
     tertiary: "#EFF4F5",
     text: "#2b2e4a", 
     textDisabled: "#BDC2C4", 
-    textSubtle: "#4374b0",
+    textSubtle: "#88d1d0",
     borderColor: "#E9EAEB", 
     card: "#FFFFFF", gradients: {
         bubblegum: "linear-gradient(139.73deg, #E6FDFF 0%, #F3EFFF 100%)",
