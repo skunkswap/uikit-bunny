@@ -2806,7 +2806,7 @@ var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), {
     tertiary: "#EFF4F5",
     text: "#2b2e4a", 
     textDisabled: "#BDC2C4", 
-    textSubtle: "#519e9a",
+    textSubtle: "#4da4eb",
     borderColor: "#E9EAEB", 
     card: "#FFFFFF", gradients: {
         bubblegum: "linear-gradient(139.73deg, #E6FDFF 0%, #F3EFFF 100%)",
