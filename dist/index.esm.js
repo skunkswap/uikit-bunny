@@ -2145,7 +2145,7 @@ var socials = [
     {
         label: "Telegram",
         icon: "TelegramIcon",
-        href: "https://t.me/BunnySwapFarm",
+        href: "https://t.me/bunny_swap",
         // items: [
         //    {
         //        label: "English",
@@ -2204,7 +2204,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/BunnySwapFarm",
+        href: "https://twitter.com/bunny_swap",
     },
 ];
 var MENU_HEIGHT = 64;
